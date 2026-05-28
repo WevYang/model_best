@@ -1,0 +1,5 @@
+rank,model,organization,verified_pure_benchmark_count,verified_pure_benchmarks,confidence_summary,notes
+1,InternVL-2.5,Shanghai AI Lab,3,"POPE, HallusionBench, MMHal-Bench","high=0, medium=3",分数带 ~，Section 5.6.1 列顺序需人工确认。
+2,MiniCPM-V,Tsinghua/ModelBest,2,"CHAIR, MMHal-Bench","high=3, medium=0",CHAIR 拆为 CHAIRs/CHAIRi 两个指标行，覆盖数按 CHAIR 一个 benchmark 计。
+3,MiniCPM-o,Tsinghua/ModelBest,2,"HallusionBench, MMHal-Bench","high=2, medium=0",
+4,PaliGemma,Google,1,POPE,"high=0, medium=1",POPE 为 transfer/fine-tuning 任务形式，非 zero-shot 口径。
