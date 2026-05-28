@@ -1,0 +1,84 @@
+model,family,organization,chart_document_proxy_count,ocr_proxy_count,video_proxy_count,grounding_proxy_count,general_capability_proxy_count,factuality_proxy_count,proxy_benchmarks,notes
+GPT-4,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-4V,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-4o,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-4.1,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-5,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-5.2,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-5.5,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GPT-5.5-Instant,GPT,OpenAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-3.5,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-3.5-Haiku-Sonnet,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-4,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-4.1,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-Sonnet-4.6,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-Opus-4.6,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-Opus-4.7,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Claude-Mythos-Preview,Claude,Anthropic,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-1.5,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-2.5,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-2.0-Flash,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-2.5-Flash,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-2.5-Pro,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-3-Pro,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-3.1-Pro,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-3.1-Flash-Lite,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-3.1-Flash-Audio,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-3.1-Flash-Image,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-3.5-Flash,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemini-Omni-Flash,Gemini,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemma 3,Gemma,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Gemma-3n,Gemma,Google DeepMind,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+PaliGemma,PaliGemma,Google,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+PaliGemma 2,PaliGemma,Google,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+LLaVA,LLaVA,Haotian Liu et al.,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+LLaVA-OneVision,LLaVA,ByteDance/Haotian Liu,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+LLaVA-OneVision-2,LLaVA,ByteDance/Haotian Liu,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Llama-3.2-Vision,Llama,Meta,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Llama-4,Llama,Meta,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen2.5-VL,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen3-VL,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen2.5-Omni,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen3-Omni,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen3.5-Omni,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen3.6,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Qwen3.7,Qwen-VL,Alibaba,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+DeepSeek-VL,DeepSeek-VL,DeepSeek,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+DeepSeek-VL2,DeepSeek-VL,DeepSeek,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+NVLM 1.0,NVLM,NVIDIA,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Phi-4-multimodal,Phi,Microsoft,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Kosmos-1,Kosmos,Microsoft,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Kosmos-2,Kosmos,Microsoft,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+InternVL,InternVL,Shanghai AI Lab,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+InternVL-1.5,InternVL,Shanghai AI Lab,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+InternVL-2.5,InternVL,Shanghai AI Lab,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+InternVL-3,InternVL,Shanghai AI Lab,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+MiniCPM,MiniCPM,Tsinghua/ModelBest,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+MiniCPM-Llama3-V,MiniCPM,Tsinghua/ModelBest,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+MiniCPM-V,MiniCPM,Tsinghua/ModelBest,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+MiniCPM-o,MiniCPM,Tsinghua/ModelBest,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+SEED-LLaMA,SEED,Beijing Academy of AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+VILA,VILA,NVIDIA,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+VILA-1.5,VILA,NVIDIA,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+CogVLM,CogVLM,Tsinghua/Zhipu,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GLM-4.5V,GLM,Zhipu AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GLM-4.1V-Thinking,GLM,Zhipu AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+GLM-4.6V,GLM,Zhipu AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+BLIP-2,BLIP,Salesforce,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Bunny,Bunny,BAAI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Emu,Emu,Beijing Academy of AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Emu2,Emu,Beijing Academy of AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Idefics2,Idefics,HuggingFace,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Kimi-VL,Kimi-VL,Moonshot AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Molmo,Molmo,Allen AI,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+MiMo-VL,MiMo-VL,Xiaomi,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Ovis2.5,Ovis,Alibaba/DAMO,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Ovis-U1,Ovis,Alibaba/DAMO,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+PaLI,PaLI,Google,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+PaLI-X,PaLI,Google,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+PaLM-E,PaLM-E,Google,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+Pixtral-12B,Pixtral,Mistral,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+HunyuanOCR,Hunyuan,Tencent,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+DeepSeek-OCR,DeepSeek-VL,DeepSeek,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+PaddleOCR-VL,PaddleOCR,Baidu/PaddlePaddle,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
+MinerU2.5,MinerU,Shanghai AI Lab,0,0,0,0,0,0,—,官方报告未报告任何代理 benchmark 得分
