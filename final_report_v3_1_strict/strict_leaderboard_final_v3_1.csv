@@ -1,0 +1,5 @@
+rank,model,organization,verified_count,high_count,medium_count,benchmarks,confidence_warning,comparability_warning,notes
+1,InternVL-2.5,Shanghai AI Lab,3,0,3,"POPE, HallusionBench, MMHal-Bench",medium_verified_needs_table_alignment_check,yes_with_caution,"This is a disclosure coverage leaderboard, not a model quality leaderboard. Section 5.6.1 column alignment pending."
+2,MiniCPM-V,Tsinghua/ModelBest,2,3,0,"CHAIR, MMHal-Bench",high_verified,no,"This is a disclosure coverage leaderboard, not a model quality leaderboard. CHAIR is split into CHAIRs/CHAIRi in the flat table but counted as one benchmark here."
+3,MiniCPM-o,Tsinghua/ModelBest,2,2,0,"HallusionBench, MMHal-Bench",high_verified,no,"This is a disclosure coverage leaderboard, not a model quality leaderboard."
+4,PaliGemma,Google,1,0,1,POPE,medium_verified_needs_table_alignment_check,yes_with_caution,"This is a disclosure coverage leaderboard, not a model quality leaderboard. POPE is a transfer/fine-tuning result and is not directly comparable to zero-shot MLLM hallucination results."
