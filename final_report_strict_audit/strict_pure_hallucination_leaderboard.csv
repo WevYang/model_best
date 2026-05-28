@@ -1,0 +1,5 @@
+rank,model,organization,pure_benchmarks_with_verified_scores,count,confidence_levels,scores,notes
+1,InternVL-2.5,Shanghai AI Lab,"HallusionBench, MMHal-Bench, POPE",3,medium,HallusionBench=~62.8 (InternVL2.5-8B); MMHal-Bench=~3.65 (InternVL2.5-8B); POPE=~90.6 (InternVL2.5-8B),MMHal score 3.65 is on 0-6 scale (plausible). Section 5.6 explicitly describes M; POPE score ~90.6 for InternVL2.5-8B (last column in table row). POPE range 60-10; Section 5.6.1 is dedicated to hallucination benchmarks. Table row confirmed for 
+2,MiniCPM-V,Tsinghua/ModelBest,"CHAIR, MMHal-Bench",2,high,CHAIR=9.3; MMHal-Bench=5.0,"MMHal-Bench Score range 0-6. MiniCPM-V 4.5 = 5.0 (first column, marked †). Hallr; ObjHalBench uses CHAIRs/CHAIRi metrics (same as CHAIR benchmark). MiniCPM-V 4.5 "
+3,MiniCPM-o,Tsinghua/ModelBest,"HallusionBench, MMHal-Bench",2,high,HallusionBench=59.1; MMHal-Bench=4.6,"Clear section header 'Hallucination HallusionBench MMHal-Score MMHal-Hallrate↓' ; MMHal-Score=4.6 (0-6 scale, plausible). MMHal-Hallrate=23.9% (lower is better)."
+4,PaliGemma,Google,POPE,1,medium,POPE=86.0 / 87.0,"PaliGemma reports POPE as a transfer/fine-tuning task (prefix with ⌞), not zero-"

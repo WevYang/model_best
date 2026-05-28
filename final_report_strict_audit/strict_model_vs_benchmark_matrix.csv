@@ -1,0 +1,84 @@
+Model,Organization,doc_type,modality,CHAIR,POPE,HallusionBench,MMHal-Bench,AMBER,FaithScore,FACTS-Grounding,SimpleVQA,OCRBench,OCRBench-v2,CharXiv,Video-MME,LongVideoBench,TempCompass,TextVQA,DocVQA,ChartQA,InfoVQA,MMBench,MMStar,MathVista,MMMU,MMVet,NoCaps,COCO-Cap,VQAv2,ScienceQA,AI2D,pure_hal_score_count,proxy_score_count
+GPT-4,OpenAI,technical_report,text-image,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-4V,OpenAI,system_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-4o,OpenAI,system_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-4.1,OpenAI,official_html,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-5,OpenAI,system_card,text-image,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-5.2,OpenAI,official_html,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-5.5,OpenAI,system_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+GPT-5.5-Instant,OpenAI,official_html,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claude-3.5,Anthropic,model_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+Claude-3.5-Haiku-Sonnet,Anthropic,system_card,text-image,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,1,0,0
+Claude-4,Anthropic,system_card,text-image,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claude-4.1,Anthropic,system_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claude-Sonnet-4.6,Anthropic,official_html,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Claude-Opus-4.6,Anthropic,official_html,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claude-Opus-4.7,Anthropic,system_card,text-image,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Claude-Mythos-Preview,Anthropic,official_html,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gemini-1.5,Google DeepMind,technical_report,text-image-video,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,1,0,1,0,0
+Gemini-2.5,Google DeepMind,technical_report,text-image-video,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-2.0-Flash,Google DeepMind,model_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-2.5-Flash,Google DeepMind,model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-2.5-Pro,Google DeepMind,model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-3-Pro,Google DeepMind,official_model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-3.1-Pro,Google DeepMind,model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gemini-3.1-Flash-Lite,Google DeepMind,official_model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-3.1-Flash-Audio,Google DeepMind,official_model_card,audio,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-3.1-Flash-Image,Google DeepMind,official_model_card,text-image,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Gemini-3.5-Flash,Google DeepMind,model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gemini-Omni-Flash,Google DeepMind,model_card,omni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gemma 3,Google DeepMind,technical_report,text-image,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,1,1,0,0,1,1,0,1,0,0
+Gemma-3n,Google DeepMind,official_model_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PaliGemma,Google DeepMind,technical_report,text-image,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,0
+PaliGemma 2,Google DeepMind,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0
+LLaVA,Haotian Liu et al.,technical_report,text-image,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+LLaVA-OneVision,ByteDance/Haotian Liu,technical_report,text-image-video,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0
+LLaVA-OneVision-2,ByteDance/Haotian Liu,technical_report,text-image-video,0,0,0,0,1,0,0,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0
+Llama-3.2-Vision,Meta,official_model_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+Llama-4,Meta,official_model_card,text-image-video,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Qwen2.5-VL,Alibaba,technical_report,text-image-video,0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+Qwen3-VL,Alibaba,technical_report,text-image-video,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0
+Qwen2.5-Omni,Alibaba,technical_report,omni,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,1,0,0
+Qwen3-Omni,Alibaba,technical_report,omni,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Qwen3.5-Omni,Alibaba,technical_report,omni,0,0,1,0,1,0,0,1,1,0,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,0,0
+Qwen3.6,Alibaba,official_model_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Qwen3.7,Alibaba,official_model_card,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+DeepSeek-VL,DeepSeek,technical_report,text-image,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1,0,0,0
+DeepSeek-VL2,DeepSeek,technical_report,text-image,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0
+NVLM 1.0,NVIDIA,technical_report,text-image,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0,1,1,1,0,0
+Phi-4-multimodal,Microsoft,technical_report,text-image,0,1,0,0,0,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,1,1,0,0,0,0,1,1,0,0
+Kosmos-1,Microsoft,technical_report,text-image,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Kosmos-2,Microsoft,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+InternVL,Shanghai AI Lab,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0,0
+InternVL-1.5,Shanghai AI Lab,technical_report,text-image,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,0,0
+InternVL-2.5,Shanghai AI Lab,technical_report,text-image,0,1,2,2,1,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,1,1,2,0
+InternVL-3,Shanghai AI Lab,technical_report,text-image,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+MiniCPM,Tsinghua/ModelBest,technical_report,text-image,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MiniCPM-Llama3-V,Tsinghua/ModelBest,technical_report,text-image,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,1,1,1,0,0
+MiniCPM-V,Tsinghua/ModelBest,technical_report,text-image-video,2,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,1,0,0,0,0,0,1,1,0
+MiniCPM-o,Tsinghua/ModelBest,technical_report,omni,0,0,2,2,0,0,0,0,1,0,0,1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,1,2,0
+SEED-LLaMA,ByteDance,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+VILA,NVIDIA,technical_report,text-image,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,0
+VILA-1.5,NVIDIA,technical_report,text-image-video,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CogVLM,Tsinghua/Zhipu,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,1,1,1,0,1,1,0,0,0
+GLM-4.5V,Zhipu AI,official_model_card,text-image,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+GLM-4.1V-Thinking,Zhipu AI,official_model_card,text-image,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+GLM-4.6V,Zhipu AI,official_model_card,text-image,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0
+BLIP-2,Salesforce,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+Bunny,BAAI,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+Emu,Beijing Academy of AI,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0
+Emu2,Beijing Academy of AI,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0
+Idefics2,HuggingFace,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,1,1,1,0,0
+Kimi-VL,Moonshot AI,technical_report,text-image,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,1,0,0
+Molmo,Allen AI,technical_report,text-image,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,1,1,1,1,0,0
+MiMo-VL,Xiaomi,technical_report,text-image,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0
+Ovis2.5,Alibaba/DAMO,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ovis-U1,Alibaba/DAMO,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+PaLI,Google,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0
+PaLI-X,Google,technical_report,text-image,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,1,1,1,0,1,0,0
+PaLM-E,Google,technical_report,text-image,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+Pixtral-12B,Mistral,technical_report,text-image,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0
+HunyuanOCR,Tencent,technical_report,document,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+DeepSeek-OCR,DeepSeek,official_html,document,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PaddleOCR-VL,Baidu/PaddlePaddle,official_html,document,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MinerU2.5,Shanghai AI Lab,official_html,document,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,26 @@
+model,benchmark,previous_score,previous_source_file,rejection_reason,corrected_judgment
+Claude-Sonnet-4.6,POPE,4,model_best/official_model_cards_html/Claude-Sonnet-4.6_system_card_page.html,score=4 is model version 'Claude Sonnet 4' in HTML page; location=intro_mention; no experiment table found,false_positive
+Claude-Opus-4.6,POPE,3,model_best/official_model_cards_html/Claude-Opus-4.6_system_card_page.html,score=3 from '3 additional instances of cheating pipeline'; not a POPE result; location=intro_mention,false_positive
+Gemini-1.5,POPE,00,model_best/Gemini-1.5_1.5_technical_report.pdf,score='00' is formatting artifact from '(00) for improved quality'; location=intro_mention; Gemini-1.5 does not report standard POPE in tech report,false_positive
+Gemini-2.5,FACTS-Grounding,1.5,model_best/Gemini-2.5_2.5_technical_report.pdf,score=1.5 is 'Gemini 1.5' model name appearing before FACTS-Grounding mention; no score table row found,false_positive
+PaliGemma,POPE,0.3,model_best/model_reports/PaliGemma_1_technical_report.pdf,score=0.3 is ±0.3 standard deviation from NoCaps/captioning task table; not a POPE score,false_positive
+LLaVA-OneVision,CHAIR,5,model_best/LLaVA-OneVision_1_technical_report.pdf,score=5 from natural-language image description 'item marked as 5 is a white bookshelf'; not a CHAIR metric,false_positive
+Qwen3-VL,HallusionBench,5.3,model_best/Qwen3-VL_3_technical_report.pdf,score=5.3 is section heading '5.3 Alignment and Subjective Tasks'; not a HallusionBench accuracy score,false_positive
+Qwen3-VL,SimpleVQA,1,model_best/Qwen3-VL_3_technical_report.pdf,score=1 from section enumeration '1. General Visual Question Answering'; not a SimpleVQA score,false_positive
+InternVL,POPE,32,model_best/InternVL_1_technical_report.pdf,score=32 from 'ADE20K semantic segmentation' context; location=intro_mention; InternVL-v1 does not report POPE in this paper,false_positive
+InternVL-1.5,HallusionBench,82,model_best/InternVL-1.5_1.5_technical_report.pdf,score=82 is citation reference '[82]' for DocVQA test (not HallusionBench); actual HallusionBench results collected from OpenCompass leaderboard but no experiment table row in paper,mentioned_only
+InternVL-2.5,HallusionBench,5.6,model_best/InternVL-2.5_2.5_technical_report.pdf,score=5.6 is section number '5.6 Multimodal Hallucination Evaluation Benchmarks'; not a score. Real HallusionBench scores are in the table within section 5.6 but were not captured by the ±300-char regex,false_positive
+InternVL-2.5,MMHal-Bench,77,model_best/InternVL-2.5_2.5_technical_report.pdf,"score=77 is citation '[77]' for HallusionBench paper (not an MMHal score); MMHal score range is 0-6, so 77 is impossible",false_positive
+InternVL-3,POPE,11,model_best/InternVL-3_3_technical_report.pdf,score=11 is page number ('11  MME MMB MMBv1.1...'); not a POPE accuracy score (POPE range 60-100%),false_positive
+InternVL-3,HallusionBench,3,model_best/InternVL-3_3_technical_report.pdf,"score=3 is truncated table row fragment or page artifact; HallusionBench range is 20-85%, value 3 is impossible",false_positive
+InternVL-3,MMHal-Bench,11,model_best/InternVL-3_3_technical_report.pdf,"score=11 same page-number artifact as POPE; MMHal range is 0-6, so 11 is impossible",false_positive
+MiniCPM-V,CHAIR,87.4,model_best/MiniCPM-V_4.5_technical_report.pdf,"score=87.4 is ChartQA score from adjacent table column ('ChartQA  87.4 87.3 89.5'); CHAIR range 0-50%, so 87.4 is impossible",false_positive
+MiniCPM-o,HallusionBench,45,model_best/MiniCPM-o_4.5_technical_report.pdf,score=45 is citation '[45] Mantis-Eval' in evaluation section; real HallusionBench=59.1 found in separate table row (see corrected entries),false_positive
+MiniCPM-o,MMHal-Bench,45,model_best/MiniCPM-o_4.5_technical_report.pdf,score=45 is same citation '[45]'; real MMHal-Score=4.6 found in table (see corrected entries); 45 is impossible on 0-6 scale,false_positive
+VILA,POPE,35.4,model_best/VILA_1_technical_report.pdf,score=35.4 is a LLaVA-Bench score ('35.4 LLaVA-Bench 72.8') in comparison table; not VILA's POPE score (POPE range 60-100%),false_positive
+CogVLM,POPE,17,model_best/CogVLM_1_technical_report.pdf,"score=17 from '17 classic cross-modal benchmarks' (count of benchmarks, not a POPE score); POPE range 60-100%",false_positive
+GLM-4.5V,HallusionBench,4,model_best/official_model_cards_html/GLM-4.5V_model_card.html,"score=4 from 'GLM-4 series' model name in HTML page (model version number, not a score); location=intro_mention",false_positive
+GLM-4.1V-Thinking,HallusionBench,4,model_best/official_model_cards_html/GLM-4.1V-Thinking_model_card.html,score=4 from 'GLM-4 series' model name in HTML page; same HTML file as GLM-4.5V; location=intro_mention,false_positive
+GLM-4.6V,HallusionBench,4,model_best/official_model_cards_html/GLM-4.6V_model_card.html,score=4 from 'GLM-4 series' model name in HTML page; location=intro_mention,false_positive
+Bunny,POPE,41,model_best/Bunny_1_technical_report.pdf,score=41 is citation '[41] MME perception' in benchmark list; not Bunny's POPE F1 score (POPE range 60-100%),false_positive
+MiMo-VL,AMBER,3.1,model_best/model_reports/MiMo-VL_1_technical_report.pdf,score=3.1 from 'Mixed On-policy Reinforcement Learning (MORL)' section—no numeric score context; location=intro_mention; AMBER range 50-90,false_positive
