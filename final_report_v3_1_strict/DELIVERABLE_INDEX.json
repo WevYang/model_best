@@ -1,0 +1,207 @@
+{
+  "version": "v3.1 strict",
+  "root": {
+    "relative": "final_report_v3_1_strict",
+    "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict",
+    "aliases": [
+      "/root/rivermind-data/model_best/final_report_v3_1_strict"
+    ]
+  },
+  "created_at": "2026-05-28T10:48:58Z",
+  "primary_files": [
+    {
+      "relative": "executive_summary_cn_v3_1.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/executive_summary_cn_v3_1.md"
+    },
+    {
+      "relative": "strict_leaderboard_final_v3_1.csv",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/strict_leaderboard_final_v3_1.csv"
+    },
+    {
+      "relative": "full_research_report_cn_v3_1.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/full_research_report_cn_v3_1.md"
+    },
+    {
+      "relative": "strict_verified_results_flat_v3_1.xlsx",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/strict_verified_results_flat_v3_1.xlsx"
+    },
+    {
+      "relative": "manual_check_required_v3_1.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/manual_check_required_v3_1.md"
+    },
+    {
+      "relative": "final_quality_check_v3_1.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/final_quality_check_v3_1.md"
+    },
+    {
+      "relative": "README_FINAL.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/README_FINAL.md"
+    },
+    {
+      "relative": "PRESENTATION_NOTES_CN.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/PRESENTATION_NOTES_CN.md"
+    },
+    {
+      "relative": "MANUAL_VERIFICATION_PLAYBOOK.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/MANUAL_VERIFICATION_PLAYBOOK.md"
+    },
+    {
+      "relative": "ARCHIVE_NOTE.txt",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/ARCHIVE_NOTE.txt"
+    }
+  ],
+  "visualization_files": [
+    {
+      "relative": "corrected_visualizations_v3_1/strict_leaderboard_bar_v3_1.png",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/strict_leaderboard_bar_v3_1.png"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/strict_leaderboard_bar_v3_1.svg",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/strict_leaderboard_bar_v3_1.svg"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/verified_pure_coverage_heatmap_v3_1.png",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/verified_pure_coverage_heatmap_v3_1.png"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/verified_pure_coverage_heatmap_v3_1.svg",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/verified_pure_coverage_heatmap_v3_1.svg"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/benchmark_category_diagram_v3_1.png",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/benchmark_category_diagram_v3_1.png"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/benchmark_category_diagram_v3_1.svg",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/benchmark_category_diagram_v3_1.svg"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/audit_pipeline_flow_v3_1.png",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/audit_pipeline_flow_v3_1.png"
+    },
+    {
+      "relative": "corrected_visualizations_v3_1/audit_pipeline_flow_v3_1.svg",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_v3_1_strict/corrected_visualizations_v3_1/audit_pipeline_flow_v3_1.svg"
+    }
+  ],
+  "deprecated_files": [
+    {
+      "relative": "final_report/full_research_report_cn.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report/full_research_report_cn.md"
+    },
+    {
+      "relative": "final_report/pure_hallucination_leaderboard.csv",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report/pure_hallucination_leaderboard.csv"
+    },
+    {
+      "relative": "analysis_results/audit_evidence_for_all_2s.xlsx",
+      "absolute": "/root/rivermind-data/model_best/model_best/analysis_results/audit_evidence_for_all_2s.xlsx"
+    }
+  ],
+  "deprecated_notes": [
+    "The legacy 25 valid_official_result table is embedded in old v2 outputs and is not a standalone file."
+  ],
+  "trusted_inputs": [
+    {
+      "relative": "final_report_strict_audit/strict_valid_results.xlsx",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_strict_audit/strict_valid_results.xlsx"
+    },
+    {
+      "relative": "final_report_strict_audit/rejected_previous_valid_results.csv",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_strict_audit/rejected_previous_valid_results.csv"
+    },
+    {
+      "relative": "final_report_strict_audit/strict_pure_hallucination_leaderboard.csv",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_strict_audit/strict_pure_hallucination_leaderboard.csv"
+    },
+    {
+      "relative": "final_report_strict_audit/strict_model_vs_benchmark_matrix.csv",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_strict_audit/strict_model_vs_benchmark_matrix.csv"
+    },
+    {
+      "relative": "final_report_strict_audit/strict_corrected_summary.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_strict_audit/strict_corrected_summary.md"
+    },
+    {
+      "relative": "final_report_strict_audit/strict_quality_check.md",
+      "absolute": "/root/rivermind-data/model_best/model_best/final_report_strict_audit/strict_quality_check.md"
+    },
+    {
+      "relative": "analysis_results/benchmark_column_dictionary.xlsx",
+      "absolute": "/root/rivermind-data/model_best/model_best/analysis_results/benchmark_column_dictionary.xlsx"
+    }
+  ],
+  "leaderboard_models": [
+    "InternVL-2.5",
+    "MiniCPM-V",
+    "MiniCPM-o",
+    "PaliGemma"
+  ],
+  "caution_models": [
+    "InternVL-2.5",
+    "PaliGemma"
+  ],
+  "manual_check_items": [
+    {
+      "priority": "A",
+      "item": "InternVL-2.5 Section 5.6.1 列顺序",
+      "current_auto_judgment": "medium_verified_needs_table_alignment_check",
+      "leaderboard_impact": "yes",
+      "confirm_success_action": "upgrade to high_verified and remove caution",
+      "confirm_failure_action": "downgrade to low_manual_check_only and remove from leaderboard",
+      "file": "model_best/InternVL-2.5_2.5_technical_report.pdf",
+      "location": "Section 5.6.1, about page 20"
+    },
+    {
+      "priority": "A",
+      "item": "InternVL-3 第 11 页 HallusionBench / POPE 列对齐",
+      "current_auto_judgment": "low_manual_check_only",
+      "leaderboard_impact": "no",
+      "confirm_success_action": "upgrade to medium_verified_needs_table_alignment_check or high_verified and add to leaderboard",
+      "confirm_failure_action": "keep low_manual_check_only and keep excluded",
+      "file": "model_best/InternVL-3_3_technical_report.pdf",
+      "location": "page 11, Table 1"
+    },
+    {
+      "priority": "B",
+      "item": "VILA Table 5 POPE 行位置",
+      "current_auto_judgment": "rejected",
+      "leaderboard_impact": "no",
+      "confirm_success_action": "add a new verified row if the POPE value is clear",
+      "confirm_failure_action": "keep rejected / false_positive",
+      "file": "model_best/VILA_1_technical_report.pdf",
+      "location": "Table 5"
+    },
+    {
+      "priority": "B",
+      "item": "CogVLM POPE 自身 vs 对比模型值",
+      "current_auto_judgment": "rejected",
+      "leaderboard_impact": "no",
+      "confirm_success_action": "add a new verified row for the self score",
+      "confirm_failure_action": "keep rejected / false_positive",
+      "file": "model_best/CogVLM_1_technical_report.pdf",
+      "location": "POPE comparison table"
+    },
+    {
+      "priority": "B",
+      "item": "Bunny Table 1 POPE F1 值",
+      "current_auto_judgment": "rejected",
+      "leaderboard_impact": "no",
+      "confirm_success_action": "add a new verified row if the F1 value is clear",
+      "confirm_failure_action": "keep rejected / false_positive",
+      "file": "model_best/Bunny_1_technical_report.pdf",
+      "location": "Table 1"
+    },
+    {
+      "priority": "B",
+      "item": "Qwen3-VL SimpleVQA 行-模型对应",
+      "current_auto_judgment": "rejected",
+      "leaderboard_impact": "no",
+      "confirm_success_action": "add a new verified row; keep the benchmark in factuality-related classification",
+      "confirm_failure_action": "keep rejected / false_positive",
+      "file": "model_best/Qwen3-VL_3_technical_report.pdf",
+      "location": "Section 5.1"
+    }
+  ],
+  "quality_check": "PASS"
+}

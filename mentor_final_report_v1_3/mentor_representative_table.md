@@ -1,0 +1,22 @@
+# 代表模型主表
+
+本表适合直接复制到微信 / 飞书 / 邮件。它不是模型能力排名，只是官方公开分数速览。
+
+| 模型/系列代表 | HallusionBench | MMHal | POPE | CHAIR/ObjHal | CRPE | Factuality-related | 备注 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Qwen3-VL-235B-A22B | 66.7 / 63.2 | - | - | - | - | SimpleVQA 61.3 / 63.0 | thinking / instruct；官方表中为 visual benchmark 主表。 |
+| Qwen2.5-VL-72B | 55.2 (HallBench_avg) | - | - | - | 79.2 | - | HallBench_avg + CRPE_relation。 |
+| InternVL3-78B | 59.1 | 3.85 | 90.3 | - | 79.2 | - | v3.2 人工确认；zero-shot 官方报告口径。 |
+| InternVL2.5-78B | 57.4 | 3.89 | 90.8 | - | 78.8 | - | v3.2 人工确认；zero-shot 官方报告口径。 |
+| MiniCPM-V 4.5 | 61.2 | 5.0 / Hallrate↓ 19.4 | - | CHAIRs↓ 9.3 / CHAIRi↓ 5.2 | - | - | ObjHalBench/CHAIR 口径；lower-is-better。 |
+| MiniCPM-o 4.5 | 63.2 | 4.7 / Hallrate↓ 24.3 | - | - | - | - | 公开 HallusionBench 和 MMHal-Bench。 |
+| DeepSeek-VL-7B | - | - | 88.1 | - | - | - | POPE 官方表格。 |
+| CogVLM-Chat | - | - | 87.9 | - | - | - | POPE 官方表格。 |
+| Bunny-8B | - | - | 87.2 | - | - | - | POPE averaged F1-score。 |
+| VILA-7B | - | - | 85.5 | - | - | - | POPE 官方表格。 |
+| Phi-4-Multimodal-5.6B | - | - | 85.6 | - | - | - | POPE 官方表格。 |
+| LLaVA-OneVision-2-8B | - | - | - | - | 77.3 | - | CRPE 官方表格。 |
+| GLM-4V-9B | 46.6 | - | - | - | - | - | 本地 GLM 4.1/4.5/4.6 HTML 实际为同一 GLM-4V-9B model card。 |
+| PaliGemma | - | - | 86.0 / 87.0 | - | - | - | VQAv2-transferred / fine-tuning setting，不与 zero-shot MLLM 直接横比。 |
+| Gemma 3 27B | - | - | - | - | - | FACTS-Grounding 74.9 | factuality/grounding-related only。 |
+| OpenAI / Anthropic / Gemini 闭源 | - | - | - | - | - | system-card factuality / safety / internal eval | 当前未发现同类可横比 direct 表格。 |
